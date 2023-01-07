@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Gamal Al-Din</h1>
-<h3 align="center">A passionate front-end developer from Egypt, Logical and results-driven developer, Technically proficient and analytical problem solver with calm and focused demeeanor.</h3>
+<h3 align="center">A passionate front-end developer from Egypt, a logical and results-driven developer, a technically proficient and analytical problem solver with a calm and focused demeanor.</h3>
 
 - 🌱 I’m currently learning **Full stack web development diploma**
 
