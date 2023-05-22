@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Gamal Al-Den</h1>
-<h3 align="center">A passionate front-end developer from Egypt, a logical and results-driven developer, a technically proficient and analytical problem solver with a calm and focused demeanor.</h3>
+<h3 align="center">A passionate full stack web developer from Egypt, a logical and results-driven developer, a technically proficient and analytical problem solver with a calm and focused demeanor.</h3>
 
-- 🌱 I’m currently learning **Full stack web development diploma**
+- 🌱 I’m currently learning **fundamentals Of Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarGamalAlden](https://github.com/OmarGamalAlden)
 
