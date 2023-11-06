@@ -7,7 +7,7 @@
 
 - 📫You can reach me **omargamalalden@gmail.com**
 
-- 📄 Know about my experiences (my resume) [(https://drive.google.com/file/d/1SESXT9H9c8yY0JTaiYnJLtlh0vcK_IGg/view?usp=sharing)]
+- 📄 Know about my experiences (my resume) [(https://drive.google.com/drive/folders/18STFoGNAMp_illJI8OcLh2qwG00PP_0a?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
