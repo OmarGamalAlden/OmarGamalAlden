@@ -1,128 +1,77 @@
-<h1 align="center">Hi 👋, I'm Omar Gamal Al-Den</h1>
-<h3 align="center">A passionate full stack web developer from Egypt, a logical and results-driven developer, a technically proficient and analytical problem solver with a calm and focused demeanor.</h3>
-
-- 🌱 I’m currently learning **fundamentals Of Programming**
-
-- 👨‍💻 All of my projects are available at [https://github.com/OmarGamalAlden](https://github.com/OmarGamalAlden)
-
-- 📫You can reach me **omargamalalden@gmail.com**
-
-- 📄 Know about my experiences (my resume) [(https://drive.google.com/drive/folders/18STFoGNAMp_illJI8OcLh2qwG00PP_0a?usp=sharing)]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/omargamalalden/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="OMAR GAMAL" height="30" width="40" /></a>
-  <a href="https://wa.me/+201003462624?text=I'm%20interested%20in%20your%20background%20and..." target="_blank"
-  ><img
-    align="center"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png"
-    alt="OMAR GAMAL"
-    height="30"
-    width="40"
-/></a>
+<h1 align="center">Hey there, I'm Omar 👋</h1>
+<p align="center">
+🚀 DevOps Engineer | 🧠 DevSecOps in progress... | ☁️ Azure Enthusiast | 🛠️ Full-Stack JavaScript Background  
 </p>
 
-<h3 align="left">Technologies & Tools:</h3>
-<p align="center"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-  alt="css3"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-  alt="html5"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-  alt="bootstrap"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-  alt="react"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"
-  alt="vs-code"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png?20200715135602"
-  alt="jquery"
-  width="85"
-  height="40"
-/>
-<img
-  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-  alt="git"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-  alt="sass"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  alt="typescript"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-  alt="Node.js"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png"
-  alt="mongoDB"
-  width="85"
-  height="40"
-/>
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
-  alt="express"
-  width="90"
-  height="40"
-/>
-<img
-  src="https://raw.githubusercontent.com/sequelize/sequelize/dd2aa1832fdaf5151977f9dacda01500cd97f277/logo.svg"
-  alt="sequelize"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://www.redbytes.co.uk/wp-content/uploads/2019/11/graphql.png"
-  alt="graphQl"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"
-  alt="socketIo"
-  width="40"
-  height="40"
-/>
- </p>
-<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img src="https://e1.pxfuel.com/desktop-wallpaper/730/510/desktop-wallpaper-mern-stack.jpg" alt="MERN Stack" width="400" height="200"/> </a></P>
+---
 
-<!---
-OmarGamalAlden/OmarGamalAlden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔭 Current Focus
+- Building a DevOps career based on real hands-on projects
+- Learning Azure, Linux, Git, Build Tools, Cloud & IaaS Basics, Nexus, Docker, Jenkins, Kubernetes, Terraform, Programming, Automation, Ansible and Databases
+- Applying my MERN full-stack experience in backend automation
+
+---
+
+<details> <summary>Click to reveal and copy the full Toolbox markdown code</summary>
+  ### 🧰 Toolbox
+
+#### ☁️ DevOps & Cloud  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nexus](https://img.shields.io/badge/-Nexus-333366?style=flat-square&logo=sonatype&logoColor=white)
+
+#### 🔧 Build Tools & Automation  
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-17a2b8?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-6c757d?style=flat-square)
+
+#### 💻 Programming & Backend  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+#### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+#### 🛢️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</details>
+
+---
+
+### 📌 Pinned Projects
+Here’s what I’m most proud of:
+- 🚧 **DevOps-Movies-Demo** — Coming Soon!
+- 📦 [E-Commerce Application - Backend](https://github.com/OmarGamalAlden/E-Commerce-App-BE)
+- 🔄 [Movies Frontend (MERN)](https://github.com/OmarGamalAlden/movies-project-mern-FE)
+
+---
+
+### 📜 Certificates
+- Microsoft Azure Admin (AZ-900, AZ-104, AZ-700, AZ-800, AZ-500) - by the Ministry of Communications & IT
+- CCNA, MCSA — strong networking background
+- Full-Stack JavaScript Development Certified — by Route Academy
+
+---
+
+### 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omargamaleldin/)
+[![Gmail](https://img.shields.io/badge/-omargamalalden@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omargamalalden@gmail.com)
