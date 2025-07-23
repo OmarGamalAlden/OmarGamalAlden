@@ -73,5 +73,9 @@ Here’s what I’m most proud of:
 ---
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omargamaleldin/)
-[![Gmail](https://img.shields.io/badge/-omargamalalden@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omargamalalden@gmail.com)
+<a href="https://linkedin.com/in/omargamalalden" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:omargamalalden@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-omargamalalden@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
