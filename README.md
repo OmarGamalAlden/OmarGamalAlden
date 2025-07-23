@@ -13,7 +13,7 @@
 ---
 
 <details> <summary>Click to reveal and copy the full Toolbox markdown code</summary>
-  ### 🧰 Toolbox
+  🧰 Toolbox
 
 #### ☁️ DevOps & Cloud  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
